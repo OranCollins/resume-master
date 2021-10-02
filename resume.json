@@ -106,21 +106,6 @@
           "Skills Used: Circuit Design, Arduino programming, 3d printing & modeling, Hardware systems integration, Woodworking, clean, and functional documentation"
         ]
       },
-
-      {
-        "summary": "",
-        "company": "Private Contractor",
-        "website": "",
-        "position": "Linux Systems Administrator",
-        "startDate": "2020-12-01",
-        "endDate": "2021-03-01",
-        "highlights": [
-          "Created MountainOS which is a custom operating system image for use with single board computers (raspberry pi), which was deployed at over 90 mountaintop radio communications sites in California",
-          "Improved deployment reliability by creating a working sd card image to standardize the installation process, cutting time & complexity down from multiple hours to just 30 minutes",
-          "Skills Used: Deep knowledge of Linux, Raspberry pi, integrated multiple software tools, Thorough testing, creation of excellent documentation"
-        ]
-      },
-
       {
         "summary": "Successfully made a hardware device field test ready, for a startup farm agtech company. Completed rapid prototyping and quick implementations of algorithms to test on the goats in the field.",
         "company": "Twisted Fields",
@@ -166,29 +151,7 @@
           "Improved development and deployment efficiency by creating custom Docker images"
         ]
       },
-      
-      {
-        "company": "Santa Rosa Junior College",
-        "summary": "Provided field technician support for campus computers, laptops, printers, and networks. Provided end-user training and support for College Faculty. Created procedural checklists to improve the quality and consistency of software installation for all Field technicians",
-        "website": "https://www.linkedin.com/school/santa-rosa-junior-college/",
-        "position": " IT Technician  (part-time)",
-        "startDate": "2017-11-01",
-        "endDate": "2017-12-01",
-        "highlights": [
-          "Assisted with solving difficult installation issues for important and frustrating faculty with their broken pc, and printers",
-          "Fielded computer diagnostics, imaged Dell computers, printers and laptops",
-          "Improved software instillation procedures by creating checklists to ensure proper and consistent software installation"
-        ]
-      },  
-      {
-        "company": "Mobile Kangaroo",
-        "summary": "",
-        "website": "https://www.linkedin.com/company/mobile-kangaroo/",
-        "position": "Computer Repair Technician",
-        "startDate": "2016-11-01",
-        "endDate": "2017-03-01",
-        "highlights": []
-      }
+    
     ],
     "interests": [
       {
